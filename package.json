@@ -19,7 +19,7 @@
     "@types/debug": "^4.1.12",
     "@types/express": "^5.0.1",
     "@types/morgan": "^1.9.9",
-    "@types/node": "^22.14.1",
+    "@types/node": "^22.15.3",
     "cookie-parser": "^1.4.7",
     "debug": "^4.4.0",
     "eslint-config-prettier": "^10.1.2",
